@@ -4,10 +4,10 @@ A self-test module with an infotainment core (Convolutional encoder) able to per
 # Presentation
 Detailed transparencies [here](SSDS_Presentation.pdf).
 
-# Internal components<br \>
-Infotainment ECU: the main control unit of the entire infotainment digital system self-test module.<br \>
-Test RAM: the RAM memory block storing the results of the test.<br \>
-Golden ROM: the ROM memory block storing the input patterns and the expected “golden” (i.e., right) results.<br \>
-Infotainment Core: the Xilinx Convolutional Encoder v8.0.<br \>
+# Internal components
+Infotainment ECU: the main control unit of the entire infotainment digital system self-test module.
+Test RAM: the RAM memory block storing the results of the test.
+Golden ROM: the ROM memory block storing the input patterns and the expected “golden” (i.e., right) results.
+Infotainment Core: the Xilinx Convolutional Encoder v8.0.
 
 ![Top entity](/Top_entity.png)
